@@ -1,0 +1,10 @@
+{
+    "progressImgPath":"/opt/image-01.png",
+    "successImgPath":"/opt/image-02.png",
+    "failureImgPath":"/opt/image-03.png",
+    "folderToSearchPath":"/mnt",
+    "destinationFolderPath":"/usr/share/nginx/destinationFolder",
+    "progressImgSleepTime":2,
+    "successImgSleepTime": 5,
+    "failureImgSleepTime": 5
+}
